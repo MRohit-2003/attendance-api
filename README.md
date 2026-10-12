@@ -1,7 +1,7 @@
 # Employee Attendance & Analytics API
 
 FastAPI + MongoDB (PyMongo) implementation of the HROne attendance assignment.
-All application code lives in `app/main.py` (plus an empty `app/__init__.py`).
+All application code lives in `app/main.py`.
 
 ## Project structure
 
